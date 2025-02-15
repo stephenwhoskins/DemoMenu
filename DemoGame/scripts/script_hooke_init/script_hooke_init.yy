@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"script_hooke_init",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"script_hooke_init",
+  "parent":{
+    "name":"hooke",
+    "path":"folders/Scripts/hooke.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

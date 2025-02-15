@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"script_hooke_transition_in",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"script_hooke_transition_in",
+  "parent":{
+    "name":"hooke",
+    "path":"folders/Scripts/hooke.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
