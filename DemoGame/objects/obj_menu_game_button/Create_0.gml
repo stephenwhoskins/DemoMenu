@@ -4,8 +4,11 @@
 // Inherit the parent event
 event_inherited();
 
-beat_time_seconds = 0.0;
-beat_period_seconds = 0.466;
+max_beats = 192;
+beat_period_seconds = audio_sound_length(snd_music_menu);
+beat_count = 0;
+last_beat_time_seconds = 0;
+sound = snd_music_menu;
 
 beat_occurred = function()
 {
